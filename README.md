@@ -11,7 +11,7 @@ Nominal sdr parameters:
     - center frequency 13.56MHz
 
 
-Tested with a SDR-Play sdr at 2MHz sample frequeny and centered on 13.56MHz.
+Tested with a SDRplay sdr ireceiver at 2MHz sample frequeny and centered on 13.56MHz.
 
 Only the VCD to VICC demodulation and frame decoding is functional. 
 TODO: VICC to VCD answer demodulation and frame decoder.
